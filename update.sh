@@ -5,3 +5,4 @@ git checkout main
 git pull origin main
 git checkout local
 git merge main
+sudo service apache2 restart
